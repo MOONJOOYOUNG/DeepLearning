@@ -1,6 +1,3 @@
-# Visiualizing t-SNE(Stochastic Neighbor Embedding)
-* data - MNIST
-
 # t-SNE(Stochastic Neighbor Embedding)
 * 차원축소(dimesionality reduction)
 * 시각화(visualization)
