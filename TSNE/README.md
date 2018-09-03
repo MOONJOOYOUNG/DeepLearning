@@ -13,5 +13,6 @@
 * 비선형 차원축소 기법 적용 시 다수의 관측치들이 겹쳐 보이는 문제.
 * 기존의 SNE 경우 정규분포를 이용하여 유사도를 계산했지만, 이를 방지하기 위해 T 분포를 사용.
 
-syntax: [pdf](http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf)
-syntax: [pdf](http://mjdeeplearning.tistory.com/36/)
+syntax: [paper](http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf)
+
+syntax: [tistory](http://mjdeeplearning.tistory.com/36/)
