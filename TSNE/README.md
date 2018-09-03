@@ -17,4 +17,5 @@
 ![텍스트](https://t1.daumcdn.net/cfile/tistory/9964B04B5B8D0D6212)
 
 Paper: (http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf)
+
 blog: (http://mjdeeplearning.tistory.com/36/)
